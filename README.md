@@ -1,0 +1,2 @@
+# NoneMaster
+Not a master
